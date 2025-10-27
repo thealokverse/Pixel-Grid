@@ -6,4 +6,4 @@
 
 # ✨ You can use this animation
 
-# 👀 View Live Demo(https://thealokverse.github.io/Pixel-Grid/)
+# 👀 [View Live Demo](https://thealokverse.github.io/Pixel-Grid/)
